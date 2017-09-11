@@ -1,2 +1,2 @@
-@!/bin/#!/usr/bin/env bash
+#!/bin/bash
 eccho "HELLO WORLD"
