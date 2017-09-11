@@ -1,4 +1,4 @@
 #!/bin/bash
-echho "hi welcome"
-EXIT
+echo "hi welcome"
+exit
 echo "i am project # $$"
